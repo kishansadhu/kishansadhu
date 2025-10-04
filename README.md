@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm KISHAN SADHU</h1>
 <h3 align="center"> I am learning to become Ethical Hacker And Cybersecurity
 
-- 🔭 I’m currently working on [DUKAN SATHI](https://github.com/durgesh-kanzariya/Dukan-Sathi-Mobile-Application/tree/kishan_sadhu)
-
-- 👨‍💻 All of my projects are available at [http://github.com/kishansadhu](http://github.com/kishansadhu)
-
-- 📫 How to reach me **kishansadhusadhu69@gmail.com**
+- <p align="start">🔭 I’m currently working on [DUKAN SATHI](https://github.com/durgesh-kanzariya/Dukan-Sathi-Mobile-Application/tree/kishan_sadhu)
+</p>
+- <p align="start">👨‍💻 All of my projects are available at [http://github.com/kishansadhu](http://github.com/kishansadhu)
+</p> 
+- <p align="start">📫 How to reach me **kishansadhusadhu69@gmail.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
