@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KISHAN SADHU</h1>
-<h3 align="center">A passionate Ethical Hacking And Cybersecurity from India</h3>
+<h3 align="center"> I am learning to become Ethical Hacker And Cybersecurity
 
 - 🔭 I’m currently working on [DUKAN SATHI](https://github.com/durgesh-kanzariya/Dukan-Sathi-Mobile-Application/tree/kishan_sadhu)
 
